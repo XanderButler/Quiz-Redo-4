@@ -4,10 +4,10 @@ int main() {
     Circle myCircle;
 
     // Demonstrate methods
-    myCircle.move(1, 1);   // Move the circle
-    myCircle.resize(1);  // Resize the circle
-    myCircle.print();  // Print updated values
-    myCircle.read();   // Prompt user for input
-    myCircle.print();  // Print entered values
+    myCircle.move(1, 1);   // Move circle
+    myCircle.resize(1);  // Resize circle
+    myCircle.print();  // Print values
+    myCircle.read();   // Prompt user
+    myCircle.print();  // Print new values
     return 0;
 }
