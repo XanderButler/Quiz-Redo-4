@@ -1,1 +1,1 @@
-g++ main.cpp circle.cpp -o
+g++ main.cpp circle.cpp -o circle
