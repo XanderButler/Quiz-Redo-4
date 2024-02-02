@@ -3,11 +3,11 @@
 int main() {
     Circle myCircle;
 
-    // Demonstrate methods
-    myCircle.move(1, 1);   // Move circle
-    myCircle.resize(1);  // Resize circle
-    myCircle.print();  // Print values
-    myCircle.read();   // Prompt user
-    myCircle.print();  // Print new values
+    // demonstrate methods
+    myCircle.move(1, 1);   // move circle
+    myCircle.resize(1);  // resize circle
+    myCircle.print();  // print values
+    myCircle.read();   // prompt user
+    myCircle.print();  // print new values
     return 0;
 }
