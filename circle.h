@@ -7,14 +7,14 @@ private:
     float radius;
 
 public:
-    // Constructors
+    // constructors
     Circle();
 
-    // Methods
+    // methods
     void move(int x, int y);
     void resize(float radius);
     void read();
     void print();
 };
 
-#endif // CIRCLE_H
+#endif
