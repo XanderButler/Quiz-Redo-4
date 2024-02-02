@@ -8,7 +8,7 @@ private:
 
 public:
     // Constructors
-    Circle();  // Default constructor
+    Circle();
 
     // Methods
     void move(int x, int y);
