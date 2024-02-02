@@ -1,10 +1,10 @@
 #include "circle.h"
 #include <iostream>
 
-// Default constructor
+// default constructor
 Circle::Circle() : x(0), y(0), radius(1.0) {}
 
-// Methods
+// methods
 void Circle::move(int x, int y) {
     this->x = x;
     this->y = y;
